@@ -1,0 +1,6 @@
+{
+  "name": "EcoFluxo — Gestão Hídrica, Energética e Ciência de Dados",
+  "description": "Sistema computacional em Python + SQLite para monitoramento de consumo energético e hídrico, detecção estatística de anomalias e previsão de demanda.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
